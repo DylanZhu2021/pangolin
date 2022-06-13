@@ -1,0 +1,11 @@
+POST http://localhost:8080/api/query
+Content-Type: application/json
+
+{
+  "query":"喜羊羊与灰太狼",
+  "page":1,
+  "limit":20,
+  "sensitive": "开心闯龙年"
+}
+
+###
