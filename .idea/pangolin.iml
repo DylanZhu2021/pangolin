@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <module type="WEB_MODULE" version="4">
   <component name="Go" enabled="true" />
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
+=======
+<module version="4">
+  <component name="Go" enabled="true" />
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+>>>>>>> a9b910bfefc1836345829c38b28bf165fe0199bb
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
